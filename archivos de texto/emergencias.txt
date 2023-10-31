@@ -1,0 +1,13 @@
+130;Conaf
+131;Ambulancia SAMU
+132;Bomberos
+133;Fono emergencias de Carabineros
+134;Policía de Investigaciones
+135;Fono Drogas
+136;Cuerpo de Socorro Andino
+137;Búsqueda y Salvamento Marítimo
+147;Fono niños de Carabineros
+149;Fono familia de Carabineros
+1455;Fono de Orientación en Violencia Contra la Mujer
+6008181000;Programa de Apoyo a Víctimas de la Subsecretaría de Prevención del Delito
+600400001;Fono Denuncia Segura (denuncia anónima)
