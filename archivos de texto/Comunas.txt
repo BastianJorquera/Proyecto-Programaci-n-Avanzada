@@ -1,0 +1,7 @@
+Valparaíso;Valparaíso;Región de Valparaíso;150
+Viña del Mar;Valparaíso;Región de Valparaíso;200
+Concón;Valparaíso;Región de Valparaíso;120
+Quintero;Valparaíso;Región de Valparaíso;110
+Puchuncaví;Valparaíso;Región de Valparaíso;87
+Casablanca;Valparaíso;Región de Valparaíso;91
+Juan Fernández;Valparaíso;Región de Valparaíso;22
